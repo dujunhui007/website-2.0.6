@@ -82,6 +82,7 @@ footer .footerRight a:hover i {
 footer .footerRight a i {
     color: #fff;
     font-size: 14px;
+    font-family: aschFont;
     line-height: 18px;
 }
 
