@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1947b25c-a4f1-4e93-baba-986f4c15b2e3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.min.css" afterPath="$PROJECT_DIR$/css/index.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/indexSwitchLanguage.js" afterPath="$PROJECT_DIR$/js/indexSwitchLanguage.js" />
-    </list>
+    <list default="true" id="1947b25c-a4f1-4e93-baba-986f4c15b2e3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,21 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="indexSwitchLanguage.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="indexSwitchLanguage.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/indexSwitchLanguage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="245">
               <caret line="277" column="17" lean-forward="true" selection-start-line="277" selection-start-column="17" selection-end-line="277" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.min.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/index.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
-              <caret line="1435" column="18" lean-forward="false" selection-start-line="1435" selection-start-column="18" selection-end-line="1435" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -61,8 +48,8 @@
         <option value="$PROJECT_DIR$/dapps.html" />
         <option value="$PROJECT_DIR$/timeLine.html" />
         <option value="$PROJECT_DIR$/css/application.css" />
-        <option value="$PROJECT_DIR$/js/indexSwitchLanguage.js" />
         <option value="$PROJECT_DIR$/css/index.min.css" />
+        <option value="$PROJECT_DIR$/js/indexSwitchLanguage.js" />
       </list>
     </option>
   </component>
@@ -156,12 +143,12 @@
       <option name="presentableId" value="Default" />
       <updated>1517539938825</updated>
       <workItem from="1517539940718" duration="697000" />
-      <workItem from="1517554937961" duration="15316000" />
+      <workItem from="1517554937961" duration="15383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16013000" />
+    <option name="totallyTimeSpent" value="16080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -406,18 +393,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/indexSwitchLanguage.js">
+    <entry file="file://$PROJECT_DIR$/css/index.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="277" column="17" lean-forward="true" selection-start-line="277" selection-start-column="17" selection-end-line="277" selection-end-column="17" />
+        <state relative-caret-position="210">
+          <caret line="1435" column="18" lean-forward="false" selection-start-line="1435" selection-start-column="18" selection-end-line="1435" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.min.css">
+    <entry file="file://$PROJECT_DIR$/js/indexSwitchLanguage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="1435" column="18" lean-forward="false" selection-start-line="1435" selection-start-column="18" selection-end-line="1435" selection-end-column="18" />
+        <state relative-caret-position="245">
+          <caret line="277" column="17" lean-forward="true" selection-start-line="277" selection-start-column="17" selection-end-line="277" selection-end-column="17" />
           <folding />
         </state>
       </provider>
