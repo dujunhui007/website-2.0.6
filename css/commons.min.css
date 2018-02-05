@@ -233,7 +233,7 @@ nav .navContainer {
 nav .navContainer .navLeft {
     display: inline-block;
     width: 100px;
-    margin-top: 19.5px;
+    margin-top: 21.5px;
     border-top: 2px solid transparent;
 }
 
@@ -308,7 +308,7 @@ nav .navContainer .navRight ul li a {
 
 .btnContainer .btn1 {
     position: absolute;
-    top: 2px;
+    top: 3px;
     left: 0;
 }
 
@@ -360,7 +360,7 @@ nav .navContainer .navRight ul li a {
 }
 
 .btnContainer:hover .sjx {
-    top: 17px;
+    top: 18px;
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
 }
