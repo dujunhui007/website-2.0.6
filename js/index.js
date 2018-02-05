@@ -48,6 +48,8 @@ $(document).ready(function () {
     $("#home .aschLogo").addClass("homeLogoAmimateOne").removeClass("homeLogoAmimateTwo");
   }
 
+  $("#timeLine .rodemapContainer").scroll();
+
 
   $(window).scroll(function () {
     var winHeight = $(this).height();
