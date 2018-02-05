@@ -73,21 +73,41 @@ $(document).ready(function () {
         "border-right": "2px solid #000",
         "border-top": "2px solid #000"
       });
-      $("nav").css("background", "#fff").css("box-shadow", "0 0 5px #ccc");
-      $("nav .navRight .downloadWhitePaper").addClass("downloadWhitePaperTwo").removeClass("downloadWhitePaperOne");
-      $("nav .navLeft  .navLogo").addClass("replaceLogoOne").removeClass("replaceLogoTwo");
-      $("nav .equalThan ").addClass("moreThan").removeClass("equalThan");
+      $("nav .navContainer .navLeft img").attr("src", "images/aschLogo1.png");
+      $("nav .navContainer .navRight ul li a").css("color", "#000000").mouseover(function () {
+        $(this).css("color", "#ffa81c")
+      }).mouseout(function () {
+        $(this).css("color", "#000000")
+      });
+      $("nav").css({
+        "background": "#fff",
+        "box-shadow": "0 0 5px #ccc"
+      });
+
+      // $("nav .navRight .downloadWhitePaper").addClass("downloadWhitePaperTwo").removeClass("downloadWhitePaperOne");
+      // $("nav .navLeft  .navLogo").addClass("replaceLogoOne").removeClass("replaceLogoTwo");
+      // $("nav .equalThan ").addClass("moreThan").removeClass("equalThan");
     } else {
       $(".btnContainer .btn1 span").css("color", "#fff");
       $(".switchLanguageBtn .btnContainer .sjx").css({
         "border-right": "2px solid #fff",
         "border-top": "2px solid #fff"
       });
-      $("nav").css("background", "transparent").css("box-shadow", "0 0 0");
-      $("nav .navRight .downloadWhitePaper").addClass("downloadWhitePaperOne").removeClass("downloadWhitePaperTwo");
-      // $("nav .navRight .downloadWhitePaper").css("color", "#1c49ae");
-      $("nav .navLeft  .navLogo").addClass("replaceLogoTwo").removeClass("replaceLogoOne");
-      $("nav .moreThan ").addClass("equalThan").removeClass("moreThan");
+
+      $("nav .navContainer .navLeft img").attr("src", "images/aschLogo2.png");
+      $("nav .navContainer .navRight ul li a").css("color", "#ffffff").mouseover(function () {
+        $(this).css("color", "#ffa81c")
+      }).mouseout(function () {
+        $(this).css("color", "#ffffff")
+      });
+      $("nav").css({
+        "background": "transparent",
+        "box-shadow": "0 0 0"
+      });
+      // $("nav .navRight .downloadWhitePaper").addClass("downloadWhitePaperOne").removeClass("downloadWhitePaperTwo");
+      // // $("nav .navRight .downloadWhitePaper").css("color", "#1c49ae");
+      // $("nav .navLeft  .navLogo").addClass("replaceLogoTwo").removeClass("replaceLogoOne");
+      // $("nav .moreThan ").addClass("equalThan").removeClass("moreThan");
 
     }
   }),
