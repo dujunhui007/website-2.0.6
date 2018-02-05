@@ -49,10 +49,10 @@
     "link": "查看详情"
   },
   {
-    "dappName": "CCTime",
-    "dappImgUrl":"images/cctimexiao.jpg",
-    "dappWatermarkUrl":"images/cctimeWatermark.png",
-    "description": "CCTime是以传播价值信息理念为核心，基于阿希（Asch）侧链技术开发的分布式社会新闻分享与交流平台。",
+    "dappName": "数字宠物",
+    "dappImgUrl":"images/BlockPetsxiao.png",
+    "dappWatermarkUrl":"images/BlockPetsWatermark.png",
+    "description": "BlockPets是基于阿希（Asch）侧链技术开发的区块链游戏。让用户真正拥有游戏的虚拟价值。",
     "link": "查看详情"
   }
 ]

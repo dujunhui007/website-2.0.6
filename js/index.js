@@ -215,12 +215,12 @@ $(document).ready(function () {
       window.open("dapp7.html");
     }),
     $("#application .dapp8").click(function () {
-      window.open("dapp1.html");
+      window.open("dapp8.html");
     }),
 
     $("#applicationDetailMore8").click(function () {
       event.stopPropagation();
-      window.open("dapp1.html");
+      window.open("dapp8.html");
     })
 
 });

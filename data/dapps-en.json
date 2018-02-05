@@ -49,10 +49,10 @@
     "link": "Read more"
   },
   {
-    "dappName": "CCTime",
-    "dappImgUrl":"images/cctimexiao.jpg",
-    "dappWatermarkUrl":"images/cctimeWatermark.png",
-    "description": "CCTime, focusing on spreading valuable information, is a distributed sharing platform of social news developed on Asch side chain technology.",
+    "dappName": "BlockPets",
+    "dappImgUrl":"images/BlockPetsxiao.png",
+    "dappWatermarkUrl":"images/BlockPetsWatermark.png",
+    "description": "BlockPets is a game based on the blockchain running on the asch chain. Users can obtain the virtual value of the game  forever.",
     "link": "Read more"
   }
 ]
