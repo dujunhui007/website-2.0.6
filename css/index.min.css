@@ -1279,7 +1279,7 @@ ul.homeLinks li:nth-child(4) i {
     width: 75px;
     height: 30px;
     bottom: -45px;
-    right: 28px;
+    right: 12px;
     font-family: aschFont;
     /* margin: 50px auto 0 auto; */
     line-height: 30px;
@@ -1399,7 +1399,7 @@ ul.homeLinks li:nth-child(4) i {
     width: 80px;
     height: 66px;
     right: 10px;
-    bottom: -50px;
+    bottom: -44px;
 }
 
 #application .swiper-container .swiper-wrapper .dapp4 .hotTopImg i {
@@ -1413,28 +1413,28 @@ ul.homeLinks li:nth-child(4) i {
     width: 80px;
     height: 51px;
     right: 10px;
-    bottom: -45px;
+    bottom: -47px;
 }
 
 #application .swiper-container .swiper-wrapper .dapp6 .hotTopImg i {
     width: 110px;
     height: 50px;
     right: 10px;
-    bottom: -44px;
+    bottom: -47px;
 }
 
 #application .swiper-container .swiper-wrapper .dapp7 .hotTopImg i {
     width: 75px;
     height: 58px;
     right: 10px;
-    bottom: -53px;
+    bottom: -50px;
 }
 
 #application .swiper-container .swiper-wrapper .dapp8 .hotTopImg i {
     width: 85px;
     height: 66px;
     right: 10px;
-    bottom: -43px;
+    bottom: -38px;
 }
 
 #application .swiper-container .swiper-wrapper .swiper-slide .applicationDetail {
