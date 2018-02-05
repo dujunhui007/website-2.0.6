@@ -3345,6 +3345,7 @@ ul.homeLinks li:nth-child(4) i {
     padding-right: 50px;
     box-sizing: border-box;
     font-size: 36px;
+    font-family: aschFont;
     color: #8d8d8d;
     letter-spacing: 3px;
 }
@@ -3357,6 +3358,7 @@ ul.homeLinks li:nth-child(4) i {
     padding-right: 50px;
     box-sizing: border-box;
     font-size: 20px;
+    font-family: aschFont;
     color: #8d8d8d;
     letter-spacing: 3px;
 }
