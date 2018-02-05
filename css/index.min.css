@@ -1381,12 +1381,10 @@ ul.homeLinks li:nth-child(4) i {
 }
 
 #application .swiper-container .swiper-wrapper .dapp1 .hotTopImg i {
-    width: 70px;
+    width: 85px;
     height: 66px;
     right: 10px;
-    bottom: -45px;
-    /*background: url(../images/cctimeWatermark.png) no-repeat center;*/
-    /*background-size: cover;*/
+    bottom: -43px;
 }
 
 #application .swiper-container .swiper-wrapper .dapp2 .hotTopImg i {
@@ -1394,17 +1392,13 @@ ul.homeLinks li:nth-child(4) i {
     height: 66px;
     right: 10px;
     bottom: -53px;
-    /*background: url(../images/kmcWatermark.png) no-repeat center;*/
-    /*background-size: cover;*/
 }
 
 #application .swiper-container .swiper-wrapper .dapp3 .hotTopImg i {
-    width: 70px;
+    width: 80px;
     height: 66px;
     right: 10px;
     bottom: -50px;
-    /*background: url(../images/bangWatermark.png) no-repeat center;*/
-    /*background-size: cover;*/
 }
 
 #application .swiper-container .swiper-wrapper .dapp4 .hotTopImg i {
@@ -1412,44 +1406,34 @@ ul.homeLinks li:nth-child(4) i {
     height: 66px;
     right: 10px;
     bottom: -56px;
-    /*background: url(../images/helloWatermark.png) no-repeat center;*/
-    /*background-size: cover;*/
 }
 
 #application .swiper-container .swiper-wrapper .dapp5 .hotTopImg i {
-    width: 70px;
+    width: 80px;
     height: 51px;
     right: 10px;
     bottom: -45px;
-    /*background: url(../images/watermark5.png) no-repeat center;*/
-    /*background-size: cover;*/
 }
 
 #application .swiper-container .swiper-wrapper .dapp6 .hotTopImg i {
-    width: 100px;
+    width: 110px;
     height: 50px;
     right: 10px;
     bottom: -44px;
-    /*background: url(../images/watermark6.png) no-repeat center;*/
-    /*background-size: cover;*/
 }
 
 #application .swiper-container .swiper-wrapper .dapp7 .hotTopImg i {
-    width: 70px;
+    width: 75px;
     height: 58px;
     right: 10px;
     bottom: -53px;
-    /*background: url(../images/watermark7.png) no-repeat center;*/
-    /*background-size: cover;*/
 }
 
 #application .swiper-container .swiper-wrapper .dapp8 .hotTopImg i {
-    width: 70px;
+    width: 85px;
     height: 66px;
     right: 10px;
-    bottom: -45px;
-    /*background: url(../images/cctimeWatermark.png) no-repeat center;*/
-    /*background-size: cover;*/
+    bottom: -43px;
 }
 
 #application .swiper-container .swiper-wrapper .swiper-slide .applicationDetail {

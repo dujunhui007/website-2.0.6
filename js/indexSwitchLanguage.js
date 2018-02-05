@@ -274,7 +274,7 @@ $(function () {
 
     dappSwiper = new Swiper('.swiper-container', {
       direction: 'horizontal',
-      autoplay: 4000,
+      // autoplay: 4000,
       loop: true,
       // loop: false,
       // observer: true,
