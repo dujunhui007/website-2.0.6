@@ -282,7 +282,9 @@ $(function () {
       // initialSlide:4,
       slidesPerGroup: 4,
       slidesPerView: 4,
-      spaceBetween: 20
+      spaceBetween: 20,
+      // prevButton:'.swiper-button-prev',
+      // nextButton:'.swiper-button-next',
     });
     // dappSwiper.reLoop();
 

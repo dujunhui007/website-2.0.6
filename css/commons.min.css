@@ -272,13 +272,17 @@ footer .footerRight a:hover i {
 }
 
 footer .footerRight a i {
-    color: #fff;
+    color: #cdcdcd;
     font-size: 14px;
     font-family: aschFont;
     line-height: 18px;
 }
+footer .footerRight a span {
+    color: #cdcdcd;
+}
 
 footer .footerRight a {
+    
     display: block;
     width: 330px;
     overflow: hidden;
